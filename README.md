@@ -81,9 +81,8 @@ open fiblib_v5-4.html
 
 ## License
 
-Research prototype. Not yet licensed for commercial use.
-If you are from Microsoft Station Q or IBM Quantum Research and want to discuss
-integration or licensing, please open an issue.
+Research prototype.
+Want to discuss, please open an issue.
 
 ## References
 
