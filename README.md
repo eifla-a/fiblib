@@ -168,3 +168,5 @@ If you use fiblib in research, please cite this repository:
 ## License
 
 MIT
+
+Questions and discussion welcome — open an issue.
