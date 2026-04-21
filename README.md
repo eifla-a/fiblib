@@ -7,7 +7,7 @@ Runs entirely in the browser — one HTML file, zero dependencies. Open `fiblib_
 Intended as a reference implementation and verification layer for Fibonacci anyon gate synthesis — the compilation step that no standard quantum compiler (pytket, quilc) currently supports.
 
 ---
-![fiblib compiler screenshot](Fiblib-screenshot.jpg)
+![fiblib compiler screenshot](https://github.com/eifla-a/fiblib/blob/main/Fiblib-screenshot%20.jpg)
 
 ## What it does
 
