@@ -3,7 +3,7 @@
 
 **Topological quantum gate compiler for SU(2)_k WZW anyonic models.**
 
-Runs entirely in the browser — one HTML file, zero dependencies. Open `fiblib_v5-5.html` and compile.
+Runs entirely in the browser — one HTML file, zero dependencies. Open `fiblib_v5-4.html` and compile.
 
 Intended as a reference implementation and verification layer for Fibonacci anyon gate synthesis — the compilation step that no standard quantum compiler (pytket, quilc) currently supports.
 
@@ -84,7 +84,7 @@ The ratio β/α = e^{iπ/2} = i is the condition for braid closure with a Hadama
 
 ---
 
-## Dual-Certificate Validity (v5.5)
+## Dual-Certificate Validity (v5.4)
 
 ### The M-identity
 
